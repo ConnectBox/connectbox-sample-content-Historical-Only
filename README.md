@@ -1,2 +1,2 @@
-# biblebox-sample-content
-Sample content for biblebox-pi
+# connectbox-sample-content
+Sample content for connectbox
